@@ -969,7 +969,7 @@ h3 {
 /* line 17, ../../Arafath/CL/Cl November/223. Transportation/HTML/scss/_header.scss */
 .header-area .main-header-area {
   padding: 7px 0;
-  background: rgb(3, 3, 3, 0.575);
+  background: rgb(3, 3, 3);
 }
 
 @media (max-width: 767px) {
@@ -1295,7 +1295,7 @@ h3 {
   -webkit-transition: transform 500ms ease, background 500ms ease;
   box-shadow: 0px 3px 16px 0px rgba(0, 0, 0, 0.1);
   background: rgba(255, 255, 255, 0.96);
-  background: rgba(3, 3, 3, 0.575);
+  background: rgb(3, 3, 3);
 }
 
 @media (max-width: 767px) {
